@@ -9,12 +9,16 @@
 - step-3
   - Async tests
 - step-4
-  - Timer mock
+  - Spy/Mocks
 - step-5
-  - Manuel mock
+  - Error handling
 - step-6
-  - ES6 Class mock
+  - Timer mock
 - step-7
+  - Manuel mock
+- step-8
+  - ES6 Class mock
+- step-9
   - Real world test cases
 
 ## To pull dojo step
