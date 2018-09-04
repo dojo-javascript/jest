@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Outbrain manager with placeholder should inject outbrain script 1`] = `
+<div>
+  
+        
+  <div
+    class="OUTBRAIN"
+    data-ob-template="my-project"
+    data-src="https://my-website.com"
+    data-widget-id="CRMB_1"
+  />
+  
+      
+</div>
+`;
+
+exports[`Outbrain manager with placeholder should inject outbrain script 2`] = `
+<div>
+  
+        
+  <div
+    class="OUTBRAIN"
+    data-ob-template="my-product"
+    data-src="https://my-website.other.com"
+    data-widget-id="SOME_ID"
+  />
+  
+      
+</div>
+`;
