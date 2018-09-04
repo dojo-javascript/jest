@@ -43,7 +43,7 @@ describe('Spy', () => {
 
     expect(setTimeout).not.toHaveBeenCalled()
 
-    getUser()
+    getUser(1)
 
     expect(setTimeout).toHaveBeenCalled()
 
